@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<br>
 <a href="https://t.me/omidnaderipv/">
   <img align="left" alt="Abhishek's telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-3691230-3073750.png" />
 </a>
@@ -17,4 +18,29 @@
 
 <br />
 
-
+```php
+<?php
+namespace AshBaker;
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Nita',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
+    public function getDailyKnowledge(): array
+    {
+        return [
+            my::class,
+        ];
+    }
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
