@@ -1,9 +1,6 @@
 ### Hi Baby 👋
 
 <br>
-<a href="https://t.me/omidnaderipv/">
-  <img align="left" alt="Abhishek's telegram" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-3691230-3073750.png" />
-</a>
 <a href="https://www.instagram.com/omidnaderivip/">
   <img align="left" alt="omid's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
